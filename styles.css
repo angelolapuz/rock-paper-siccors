@@ -1,0 +1,26 @@
+body {
+    background-color: lightcoral;
+}
+
+.scoreDisplay {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.resultDisplay {
+    display: inline-block;
+}
+
+.playerScore {
+    width: 50px;
+    align-content: flex-start;
+}
+
+.computerScore {
+    width: 50px;
+    align-content: flex-start;
+} 
+
+.buttons {
+    text-align: center;
+}
